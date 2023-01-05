@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//ItsFenil.github.io/Weather-App-React/static/css/main.576da9c7.css",
+    "main.js": "/https//ItsFenil.github.io/Weather-App-React/static/js/main.08990c20.js",
+    "static/media/sunset.jpg": "/https//ItsFenil.github.io/Weather-App-React/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/https//ItsFenil.github.io/Weather-App-React/index.html",
+    "main.576da9c7.css.map": "/https//ItsFenil.github.io/Weather-App-React/static/css/main.576da9c7.css.map",
+    "main.08990c20.js.map": "/https//ItsFenil.github.io/Weather-App-React/static/js/main.08990c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.576da9c7.css",
+    "static/js/main.08990c20.js"
+  ]
+}
